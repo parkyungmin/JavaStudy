@@ -1,3 +1,5 @@
+package class1;
+
 public class ClassStart3 {
     public static void main(String[] args) {
         //숫자형을 저장할 있게 int 타입을 만들었고 문자형을 저장할 수 있게 stirng 타입을 만듬.
