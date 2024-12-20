@@ -12,7 +12,7 @@ public class ClassStart5 {
         student2.age = 16;
         student2.grade = 80;
 
-        //배열생성
+        //Student 타입의 배열생성
         Student[] students = {student1, student2};
 
         for(int i=0; i<students.length; i++){
