@@ -1,4 +1,4 @@
-package mid1.lang.object.test;
+package mid1.object.test;
 
 public class Rectangle {
     private int width;

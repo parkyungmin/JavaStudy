@@ -1,4 +1,4 @@
-package mid1.immutable.address;
+package mid1.lang.immutable.address;
 
 public class primitveMain {
     public static void main(String[] args) {

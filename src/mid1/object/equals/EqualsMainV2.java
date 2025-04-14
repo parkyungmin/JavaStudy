@@ -1,4 +1,4 @@
-package mid1.lang.object.equals;
+package mid1.object.equals;
 
 public class EqualsMainV2 {
     public static void main(String[] args) {

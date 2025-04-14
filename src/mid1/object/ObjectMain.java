@@ -1,4 +1,4 @@
-package mid1.lang.object;
+package mid1.object;
 
 public class ObjectMain {
     public static void main(String[] args) {

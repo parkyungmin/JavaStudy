@@ -1,4 +1,4 @@
-package mid1.lang;
+package mid1;
 
 import java.lang.System; //생략 허용
 public class LangMain {

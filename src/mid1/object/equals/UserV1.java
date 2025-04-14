@@ -1,4 +1,4 @@
-package mid1.lang.object.equals;
+package mid1.object.equals;
 
 public class UserV1 {
     private String id;

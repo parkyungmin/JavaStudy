@@ -1,11 +1,10 @@
-package mid1.immutable.address;
-/**
- * 사이드 이펙트 방어 - 객체 새로 생성
- */
-public class RefMain1_2 {
+package mid1.lang.immutable.address;
+
+public class RefMain1_1 {
     public static void main(String[] args) {
-        Address a = new Address("서울"); //x001
-        Address b = new Address("서울"); //x002
+        //참조형 변수는 하나의 인스턴스를 공유할 수 있다.
+        Address a = new Address("서울");
+        Address b = a;
         System.out.println("a = " + a);
         System.out.println("b = " + b);
 

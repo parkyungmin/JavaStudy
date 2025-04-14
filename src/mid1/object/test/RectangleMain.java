@@ -1,4 +1,4 @@
-package mid1.lang.object.test;
+package mid1.object.test;
 
 public class RectangleMain {
     public static void main(String[] args) {
